@@ -1,0 +1,52 @@
+body {
+	font-family: 'Noto Sans', sans-serif;
+	color:#900009;
+	text-emphasis: bold; 
+	background-color: beige; 
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+	background: #C12C1E;
+	border-radius: 24px;
+	color: beige; 
+	font-size: 50px; 
+}
+
+p {
+	font-family: 'Space Mono', monospace;
+	padding-top: 10px;
+	font-size: 18px;
+
+}
+
+
+h1 {
+	font-family: 'Space Mono', monospace;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
+}
+
+h3 {
+	font-family: 'Space Mono', monospace;
+	color:black;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+
+label {
+	
+	color: #C12C1E;
+	text-emphasis: bold; 
+}
+
+p {
+	text-align: center; 
+}
